@@ -1,10 +1,10 @@
-### Hey there! 👋
+<h1>Hey there! 👋</h1>
 
 <h2>I'm Xinyi Lin <br> 
 a learner, gamer, photographer <br>
 on my path to become a software developer </h2>
 
-## About Me
+# About Me
 * 📖 Passionate about learning, not just learning coding
 * ❤️ Enjoys my leisure time reading novels and manga
 * 🛠 Currently learning NodeJS and ReactJS
