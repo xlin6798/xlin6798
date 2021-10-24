@@ -1,8 +1,8 @@
 <h1>Hey there! 👋</h1>
 
-<h2>I'm Xinyi Lin <br> 
+I'm Xinyi Lin <br> 
 a learner, gamer, photographer <br>
-on my path to become a software developer </h2>
+on my path to become a software developer
 
 # About Me
 * 📖 Passionate about learning, not just learning coding
